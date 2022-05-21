@@ -1,12 +1,12 @@
 <h1 align="center"> Hi There, I'm JosephBusayo <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-- 🎓 I am currently taking part in the classvisa program and zuri internship. Currently a team lead for a departmental project.
-- 🌱 I’m currently learning **JAVASCRIPT AND REACT**
+- 🎓 I am currently taking part in the classvisa program and zuri internship and a team lead for a departmental project.
+- 🌱 Just picking up **JAVASCRIPT AND REACT**
 
-- 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
+- 👯 I’m looking to collaborate with other developers or frontend developers.
 
-- 💬 Ask me about **Python, Django and Javascript**
+- 💬 **Python, Django and Javascript** yeah that's my thing.
 
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 

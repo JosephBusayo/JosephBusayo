@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
 
-- 💬 Ask me about **Python, Django and Javascript**
+- 💬 Ask me about **PYTHON, DJANGO and JS**
 
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 
@@ -21,26 +21,27 @@
 	<table>
 		<tr>
 		<td width="40%">
-			<h3 align="center" color="white">Anagram Machine</h2>
+			<h3 align="center" color="white">Anagram Generator</h2>
 				<div align="center" > 
 					<a href="#">
-						<img src="https://github.com/JosephBusayo/Anagram-machine/blob/main/anagram1.jpg?raw=true" alt="anybuy gif" height="200px" />
+						<img src="https://github.com/JosephBusayo/AnagramGenerator/blob/main/anagram1.jpg?raw=true" alt="anagram generator" height="200px" />
 					</a>
 					<br>
 					<br>
 				<p>
-                        <!--repo -->  <a href='https://github.com/JosephBusayo/Anagram-machine'>
+                        <!--repo -->  <a href='https://github.com/JosephBusayo/AnagramGenerator'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
-                        <!--live site --> 
+                        <!--live site  
 					<a href="#">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	
+					</a>	-->
 				</p>
-				<p><strong>Django/Python, HTML, CSS</strong> A web app that allows you find anagram of any combination of english letters</p>
+				<p><strong>Python</strong> A python library that allows you find anagram of any combination of english letters</p>
 			</div>
 		</td>
              <!-- Second tab -->
+			 <!-- 
 				<td width="40%">
 			<h3 align="center" color="white">Food Library</h2>
 				<div align="center" > 
@@ -49,17 +50,17 @@
 					</a>
 					<br>
 					<br>
-				<p>
-                        <!--repo -->  <a href='https://github.com/tylerjusfly/azure-devto-hackathon'>
+				<p> -->
+                        <!--repo   <a href='https://github.com/tylerjusfly/azure-devto-hackathon'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				      </a>  
+				      </a>  -->
                         <!--live site --> 
-					<a href="#">
+					<!--<a href="#">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>
 				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap, MongoDb</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
-			</div>
+			</div> -->
 		</td>
 	 	<tr>
 	</table>

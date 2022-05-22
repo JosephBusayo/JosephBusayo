@@ -24,7 +24,7 @@
 			<h3 align="center" color="white">Anagram Generator</h2>
 				<div align="center" > 
 					<a href="#">
-						<img src="https://github.com/JosephBusayo/AnagramGenerator/blob/main/anagram1.jpg?raw=true" alt="anagram generator" height="200px" />
+						<img src="https://github.com/JosephBusayo/AnagramGenerator/blob/main/anagram.jpg?raw=true" alt="anagram generator" height="200px" />
 					</a>
 					<br>
 					<br>

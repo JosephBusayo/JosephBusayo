@@ -1,12 +1,16 @@
 <h1 align="center"> Hi There, I'm JosephBusayo <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-- 🎓 I am currently taking part in the classvisa program and zuri internship. Currently a team lead for a departmental project.
-- 🌱 I’m currently learning **JAVASCRIPT AND REACT**
+- 🎓 I am currently taking part in the classvisa program and zuri internship and a team lead for a departmental project.
+- 🌱 Just picking up **JAVASCRIPT AND REACT**
 
-- 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
+- 👯 I’m looking to collaborate with other developers or frontend developers.
 
+<<<<<<< HEAD
 - 💬 Ask me about **PYTHON, DJANGO and JS**
+=======
+- 💬 **Python, Django and Javascript** yeah that's my thing.
+>>>>>>> 20f1f5613234725e9880a493ee705b988c643120
 
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 
@@ -90,6 +94,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerjusfly&show_icons=true&locale=en&layout=compact" alt="tylerjusfly" /></p>

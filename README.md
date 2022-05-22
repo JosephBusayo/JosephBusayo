@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate with other developers or frontend developers.
 
-<<<<<<< HEAD
-- 💬 Ask me about **PYTHON, DJANGO and JS**
-=======
 - 💬 **Python, Django and Javascript** yeah that's my thing.
->>>>>>> 20f1f5613234725e9880a493ee705b988c643120
 
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 

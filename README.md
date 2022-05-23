@@ -41,26 +41,26 @@
 			</div>
 		</td>
              <!-- Second tab -->
-			 <!-- 
 				<td width="40%">
 			<h3 align="center" color="white">Food Library</h2>
 				<div align="center" > 
 					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
-						<img src="https://user-images.githubusercontent.com/53145644/168263946-8af5dff9-92f6-444f-92b3-a0a0de96f05d.png" alt="foodlibarary" height="200px" />
+						<img src="https://user-images.githubusercontent.com/73368258/169723993-b1d3c158-1a21-4066-b76d-be9a2d1c1841.jpg" alt="booklibrary" height="200px" />
 					</a>
 					<br>
 					<br>
 				<p> -->
-                        <!--repo   <a href='https://github.com/tylerjusfly/azure-devto-hackathon'>
+                        <!--repo   -->
+						<a href='https://github.com/JosephBusayo/book_store'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				      </a>  -->
-                        <!--live site --> 
-					<!--<a href="#">
+				      </a>  
+                        <!--live site 
+					<a href="#">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	
+					</a>	--> 
 				</p>
-				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap, MongoDb</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
-			</div> -->
+				<p><strong>Python, Django, HTML, CSS</strong> - Book website focuse on CRUD operation</p>
+			</div> 
 		</td>
 	 	<tr>
 	</table>

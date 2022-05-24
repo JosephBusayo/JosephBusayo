@@ -2,12 +2,9 @@
 
 
 - 🎓 I am currently taking part in the classvisa program and zuri internship and a team lead for a departmental project.
-- 🌱 Just picking up **JAVASCRIPT AND REACT**
-
+- 💬 **PYTHON, DJANGO and Javascript?** yeah that's my thing.
 - 👯 I’m looking to collaborate with other developers or frontend developers.
-
-- 💬 **Python, Django and Javascript** yeah that's my thing.
-
+- 🌱 New to **Javascript and react**
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 
 - 📫 How to reach me **busayojoseph123@gmail.com**

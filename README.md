@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, I'm JosephBusayo <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hi There, I'm JosephBusayo <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
 
 
 - 🎓 I am currently taking part in the classvisa program and zuri internship and a team lead for a departmental project.

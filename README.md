@@ -48,7 +48,7 @@
 					<br>
 				<p> -->
                         <!--repo   -->
-						<a href='https://github.com/JosephBusayo/book_store'>
+						<a href='https://github.com/JosephBusayo/airbnb-clone'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site 

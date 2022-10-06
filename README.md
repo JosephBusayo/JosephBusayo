@@ -41,13 +41,15 @@
 				<td width="40%">
 			<h3 align="center" color="white">Airbnb Clone</h2>
 				<div align="center" > 
-					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
+					<a href="https://github.com/JosephBusayo/airbnb-clone">
 						<img src="https://user-images.githubusercontent.com/73368258/194283340-5ebd3521-aafc-4b05-aa54-a649089cd269.jpg" alt="screenshot" height="200px" />
+
 					</a>
 					<br>
 					<br>
 				<p> 
                         <!--repo   -->
+
 						<a href='https://github.com/JosephBusayo/airbnb-clone'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  

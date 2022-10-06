@@ -39,24 +39,24 @@
 		</td>
              <!-- Second tab -->
 				<td width="40%">
-			<h3 align="center" color="white">Food Library</h2>
+			<h3 align="center" color="white">Airbnb Clone</h2>
 				<div align="center" > 
 					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
-						<img src="https://user-images.githubusercontent.com/73368258/169723993-b1d3c158-1a21-4066-b76d-be9a2d1c1841.jpg" alt="booklibrary" height="200px" />
+						<img src="https://user-images.githubusercontent.com/73368258/194283340-5ebd3521-aafc-4b05-aa54-a649089cd269.jpg" alt="screenshot" height="200px" />
 					</a>
 					<br>
 					<br>
 				<p> -->
                         <!--repo   -->
-						<a href='https://github.com/JosephBusayo/book_store'>
+						<a href='https://github.com/JosephBusayo/airbnb-clone'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
-                        <!--live site 
-					<a href="#">
+                        <!--live site -->
+					<a href="https://airbnb-clone-659c5.web.app/">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	--> 
+					</a>	
 				</p>
-				<p><strong>Python, Django, HTML, CSS</strong> - Book website focuse on CRUD operation</p>
+				<p><strong>React, HTML, CSS</strong> - A website imitating the appearance and some of airbnb website</p>
 			</div> 
 		</td>
 	 	<tr>

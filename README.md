@@ -39,10 +39,10 @@
 		</td>
              <!-- Second tab -->
 				<td width="40%">
-			<h3 align="center" color="white">Food Library</h2>
+			<h3 align="center" color="white">Airbnb Clone</h2>
 				<div align="center" > 
-					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
-						<img src="https://user-images.githubusercontent.com/73368258/169723993-b1d3c158-1a21-4066-b76d-be9a2d1c1841.jpg" alt="booklibrary" height="200px" />
+					<a href="https://github.com/JosephBusayo/airbnb-clone">
+						<img src="https://user-images.githubusercontent.com/73368258/194283340-5ebd3521-aafc-4b05-aa54-a649089cd269.jpg" alt="booklibrary" height="200px" />
 					</a>
 					<br>
 					<br>

@@ -46,17 +46,17 @@
 					</a>
 					<br>
 					<br>
-				<p> -->
-                        <!--repo   -->
+				<p> 
+                        <!--repo   
 						<a href='https://github.com/JosephBusayo/airbnb-clone'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site 
 					<a href="#">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	--> 
+					</a>	
 				</p>
-				<p><strong>Python, Django, HTML, CSS</strong> - Book website focuse on CRUD operation</p>
+				<p><strong>React, HTML, CSS</strong> - A website imitating the appearance and some of airbnb website</p>
 			</div> 
 		</td>
 	 	<tr>

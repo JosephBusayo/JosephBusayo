@@ -1,16 +1,14 @@
 <h1 align="center"> Hi There, I'm JosephBusayo <!--<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">--></h1>
 
 
-- 🎓 I am currently taking part in the classvisa program and zuri internship.
+- 🎓 I am currently an intern at toltem.
 - 💬 **PYTHON, DJANGO and Javascript?** yeah that's my thing.
 - 👯 I’m looking to collaborate with other developers or frontend developers.
 - 🌱 New to **Javascript and react**
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
-
 - 📫 How to reach me **busayojoseph123@gmail.com**
-
 - ⚡ Fun fact **I Love teaching, gaming and good music**
-
+- CHECKOUT MY WEB PORTFOLIO **joseph-busayo.web.app**
 <hr>
 
 <h2 align="center" color="white">Projects I Have Worked On</h2>

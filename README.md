@@ -8,7 +8,7 @@
 - 🧙🏽‍♂️ And I'm on the path to becoming a great backend/fullstack engineer 🧙🏽‍♂️
 - 📫 How to reach me **busayojoseph123@gmail.com**
 - ⚡ Fun fact **I Love teaching, gaming and good music**
-- CHECKOUT MY WEB PORTFOLIO **joseph-busayo.web.app**
+- [CHECKOUT MY WEB PORTFOLIO] (joseph-busayo.web.app)
 <hr>
 
 <h2 align="center" color="white">Projects I Have Worked On</h2>

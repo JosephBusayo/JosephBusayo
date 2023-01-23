@@ -49,7 +49,7 @@
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site -->
-					<a href="https://airbnb-clone-659c5.web.app/">
+					<a href="https://airbnbclone-app.web.app/">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>

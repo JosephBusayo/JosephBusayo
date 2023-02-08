@@ -2,19 +2,20 @@
 
 <p align='center'>Software Engineer with proficient skills working with <b><code>JavaScript</code></b> & <b><code>Python</code></b>.</p>
 
+
 <p align='center'>
-<a href="https://wa.me/2348101843015?text=Hello Joseph!" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/josephbusayo9" target="_blank">
-   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/josephbusayo/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:busayojoseph123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp
+	<a href="https://wa.me/2348101843015?text=Hello Joseph!" target="_blank">
+	<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+	</a>&nbsp;&nbsp;
+	<a href="https://twitter.com/josephbusayo9" target="_blank">
+	<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/josephbusayo/" target="_blank">
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>&nbsp;&nbsp;
+	<a href="mailto:busayojoseph123@gmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>&nbsp;&nbsp
 </p>
 
 <p align='center'>
